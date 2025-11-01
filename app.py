@@ -208,4 +208,4 @@ if __name__ == "__main__":
             
             result_im = neural_style_transfer(cfg, device)
             # res_im_ph.image(result_im, channels="BGR")
-            bt_ph.markdown("This is the resulting **stylized image**!")
+            bt_ph.markdown("Hurray! 🎉 This is your final **generated image**!")
