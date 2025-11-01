@@ -2,4 +2,5 @@ torch
 numpy
 torchvision
 opencv-python
+opencv-python-headless
 streamlit
