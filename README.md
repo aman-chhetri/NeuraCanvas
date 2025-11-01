@@ -18,7 +18,7 @@ Basically, in Neural Style Transfer we have two images- style and content. We ne
 <img src="assets/cover_img.jpeg"  width="600">
 </p>
 
-You can check out the deployed app here: [NeuraCanvas](https://streamlit.com/)
+You can check out the deployed app here: [NeuraCanvas](https://neura-canvas.streamlit.app/)
 
 <!-- ## Installation with conda
 
