@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+virtualenv/
+
+# Generated output
+# data/output-images/*
+# !data/output-images/.gitkeep
+# app_stylized_image.jpg
