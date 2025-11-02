@@ -9,6 +9,9 @@
 
 Basically, in Neural Style Transfer we have two images- style and content. We need to copy the style from the style image and apply it to the content image. By, style I basically mean, the patterns, the brushstrokes, etc.
 
+> [!NOTE]  
+> Want to know more about the NST Paper? Check out this repo here: [NeuStyle](https://github.com/aman-chhetri/neu-style)
+
 *Let's have a look to an example below: (The left-most image is the content, central image is the style and the right-most image is the output.)*
 
 <!-- <p align="center">
